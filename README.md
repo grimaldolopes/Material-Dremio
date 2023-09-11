@@ -18,3 +18,4 @@ Com o Dremio, a exploração de dados se torna uma tarefa intuitiva e interativa
 A trilha da linhagem de dados é fundamental para garantir a transparência e confiabilidade das informações. Vamos mostrar como o Dremio rastreia a linhagem de dados, permitindo que você compreenda a origem e o impacto de cada informação presente em seus relatórios e análises. Além disso, você aprenderá como acompanhar as cargas de dados, garantindo a atualização e sincronização adequadas entre suas fontes.
 
 # Ebook sobre o DREMIO
+http://tiny.cc/EBOOKDREMIODATALAKE
